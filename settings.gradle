@@ -1,0 +1,2 @@
+rootProject.name='lecture6_IncreaseOrDecrease'
+include ':app'
